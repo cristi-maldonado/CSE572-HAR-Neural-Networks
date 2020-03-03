@@ -1,0 +1,233 @@
+Cristina Maldonado ASU ID: 1216168421
+This file is a running log of decision tree results.
+
+
+1582820571.1056151
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25
+Decision Tree Metrics
+Precision: 0.16		Recall: 0.55		F1: 0.25
+Neutral Network Metrics
+Precision: 0.19		Recall: 0.56		F1: 0.29
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.75		Recall: 1.0		F1: 0.86
+Decision Tree Metrics
+Precision: 0.37		Recall: 0.39		F1: 0.38
+Neutral Network Metrics
+Precision: 0.79		Recall: 0.15		F1: 0.25
+
+1582822018.8074157
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25
+Decision Tree Metrics
+Precision: 0.16		Recall: 0.55		F1: 0.25
+Neutral Network Metrics
+Precision: 0.19		Recall: 0.56		F1: 0.29
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.75		Recall: 1.0		F1: 0.86
+Decision Tree Metrics
+Precision: 0.37		Recall: 0.39		F1: 0.38
+Neutral Network Metrics
+Precision: 0.79		Recall: 0.15		F1: 0.25
+
+1582829580.8819103
+
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.75		Recall: 1.0		F1: 0.86
+Decision Tree Metrics
+Precision: 0.35		Recall: 0.37		F1: 0.36
+Neutral Network Metrics
+Precision: 0.79		Recall: 0.13		F1: 0.22
+
+User Dependent Analysis Report
+SVM Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25
+Decision Tree Metrics
+Precision: 0.16		Recall: 0.55		F1: 0.25
+Neutral Network Metrics
+Precision: 0.2		Recall: 0.53		F1: 0.29
+
+1582833070.7412765
+
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.75		Recall: 1.0		F1: 0.85
+Decision Tree Metrics
+Precision: 0.38		Recall: 0.38		F1: 0.38
+Neutral Network Metrics
+Precision: 0.0		Recall: 0.0		F1: 0.0
+
+User Dependent Analysis Report
+SVM Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25
+Decision Tree Metrics
+Precision: 0.16		Recall: 0.55		F1: 0.25
+Neutral Network Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25
+
+1582834654.5261815
+
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.75		Recall: 1.0		F1: 0.86
+Decision Tree Metrics
+Precision: 0.36		Recall: 0.37		F1: 0.37
+Neutral Network Metrics
+Precision: 0.78		Recall: 0.13		F1: 0.22
+
+User Dependent Analysis Report
+SVM Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25
+Decision Tree Metrics
+Precision: 0.16		Recall: 0.54		F1: 0.25
+Neutral Network Metrics
+Precision: 0.2		Recall: 0.57		F1: 0.29
+
+1582844348.4102757
+
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.75		Recall: 1.0		F1: 0.85
+Decision Tree Metrics
+Precision: 0.37		Recall: 0.37		F1: 0.37
+Neutral Network Metrics
+Precision: 0.85		Recall: 0.12		F1: 0.22
+
+User Dependent Analysis Report
+SVM Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25
+Decision Tree Metrics
+Precision: 0.16		Recall: 0.55		F1: 0.25
+Neutral Network Metrics
+Precision: 0.16		Recall: 0.6		F1: 0.25
+
+1582848330.4273942
+
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.76		Recall: 1.0		F1: 0.86		F1: 0.76
+Decision Tree Metrics
+Precision: 0.35		Recall: 0.38		F1: 0.36		F1: 0.76
+Neutral Network Metrics
+Precision: 0.0		Recall: 0.0		F1: 0.0		F1: 0.76
+
+User Dependent Analysis Report
+SVM Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25		F1: 0.14
+Decision Tree Metrics
+Precision: 0.16		Recall: 0.55		F1: 0.25		F1: 0.14
+Neutral Network Metrics
+Precision: 0.19		Recall: 0.52		F1: 0.27		F1: 0.14
+
+1582849890.871825
+
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.74		Recall: 1.0		F1: 0.85		Accuract: 0.74
+Decision Tree Metrics
+Precision: 0.67		Recall: 0.67		F1: 0.67		Accuract: 0.74
+Neutral Network Metrics
+Precision: 0.74		Recall: 1.0		F1: 0.85		Accuract: 0.74
+
+User Dependent Analysis Report
+SVM Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25		Accuract: 0.14
+Decision Tree Metrics
+Precision: 0.77		Recall: 0.53		F1: 0.6		Accuract: 0.14
+Neutral Network Metrics
+Precision: 0.79		Recall: 0.58		F1: 0.65		Accuract: 0.14
+
+1582863266.054035
+
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.75		Recall: 1.0		F1: 0.86
+Decision Tree Metrics
+Precision: 0.67		Recall: 0.67		F1: 0.67
+Neutral Network Metrics
+Precision: 0.75		Recall: 1.0		F1: 0.86
+
+User Dependent Analysis Report
+SVM Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25
+Decision Tree Metrics
+Precision: 0.77		Recall: 0.53		F1: 0.6
+Neutral Network Metrics
+Precision: 0.78		Recall: 0.54		F1: 0.61
+
+1582865941.5280206
+
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.75		Recall: 1.0		F1: 0.85
+Decision Tree Metrics
+Precision: 0.68		Recall: 0.68		F1: 0.68
+Neutral Network Metrics
+Precision: 0.79		Recall: 0.77		F1: 0.7
+
+User Dependent Analysis Report
+SVM Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25
+Decision Tree Metrics
+Precision: 0.77		Recall: 0.54		F1: 0.61
+Neutral Network Metrics
+Precision: 0.76		Recall: 0.38		F1: 0.44
+
+1583073749.9884849
+
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.75		Recall: 1.0		F1: 0.86
+Decision Tree Metrics
+Precision: 0.68		Recall: 0.67		F1: 0.68
+Neutral Network Metrics
+Precision: 0.75		Recall: 1.0		F1: 0.86
+
+User Dependent Analysis Report
+SVM Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25
+Decision Tree Metrics
+Precision: 0.77		Recall: 0.53		F1: 0.6
+Neutral Network Metrics
+Precision: 0.78		Recall: 0.56		F1: 0.63
+
+1583076185.0259264
+
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.74		Recall: 1.0		F1: 0.85
+Decision Tree Metrics
+Precision: 0.68		Recall: 0.68		F1: 0.68
+Neutral Network Metrics
+Precision: 0.77		Recall: 0.77		F1: 0.77
+
+User Dependent Analysis Report
+SVM Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25
+Decision Tree Metrics
+Precision: 0.54		Recall: 0.54		F1: 0.54
+Neutral Network Metrics
+Precision: 0.6		Recall: 0.6		F1: 0.6
+
+1583078412.8457894
+
+User Independent Analysis Report
+SVM Metrics
+Precision: 0.75		Recall: 1.0		F1: 0.86
+Decision Tree Metrics
+Precision: 0.68		Recall: 0.67		F1: 0.68
+Neutral Network Metrics
+Precision: 0.75		Recall: 1.0		F1: 0.86
+
+User Dependent Analysis Report
+SVM Metrics
+Precision: 0.14		Recall: 1.0		F1: 0.25
+Decision Tree Metrics
+Precision: 0.77		Recall: 0.53		F1: 0.6
+Neutral Network Metrics
+Precision: 0.77		Recall: 0.37		F1: 0.43
